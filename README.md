@@ -1,6 +1,6 @@
 # Atom probe tomography: visual lessons
 
-A small static site that teaches atom probe tomography (APT) in eight lessons, using the CAMECA Invizo 6000 as the running example. It is one self-contained file with no build step and no dependencies.
+A small static site that teaches atom probe tomography (APT) in eight （plus 1) lessons, using the CAMECA Invizo 6000 as the running example. It is one self-contained file with no build step and no dependencies.
 
 ## Preview locally
 
@@ -27,4 +27,4 @@ Energy barrier, projection magnification, ranging window trade-off, isosurface t
 
 ## Sources and cautions
 
-Instrument figures come from the NUS poster "Invizo 6000 Atom Probe Tomography: Operating principles, specimen preparation, and data analysis" and CAMECA material. The demos are simplified teaching models. Check values against current datasheets before quoting them, and add your own images only if you have the rights to use them.
+Instrument figures come from the NUS poster "Invizo 6000 Atom Probe Tomography: Operating principles, specimen preparation, and data analysis" from Xipeng Tan's group and CAMECA material. The demos are simplified teaching models. Check values against current datasheets before quoting them.
